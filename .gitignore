@@ -20,7 +20,7 @@ build
 # other
 eclipse
 run
-.bat
+*.bat
 
 
 # Files from Forge MDK
